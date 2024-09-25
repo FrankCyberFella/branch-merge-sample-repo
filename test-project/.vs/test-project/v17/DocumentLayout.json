@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\frank\\workspace\\repos\\wip-frank\\Week-8-Git-In-A-Team\\branch-merge-sample-repo\\test-project\\",
+  "WorkspaceRootPath": "C:\\Users\\Ethan\\workspace\\Lab_Repos\\branch-merge-sample-repo\\test-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E7F7B30-EFB5-4C73-894E-C13C2DCBFE5C}|test-project\\test-project.csproj|c:\\users\\frank\\workspace\\repos\\wip-frank\\week-8-git-in-a-team\\branch-merge-sample-repo\\test-project\\test-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E7F7B30-EFB5-4C73-894E-C13C2DCBFE5C}|test-project\\test-project.csproj|c:\\users\\ethan\\workspace\\lab_repos\\branch-merge-sample-repo\\test-project\\test-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E7F7B30-EFB5-4C73-894E-C13C2DCBFE5C}|test-project\\test-project.csproj|solutionrelative:test-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,24 +26,20 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\workspace\\repos\\wip-frank\\Week-8-Git-In-A-Team\\branch-merge-sample-repo\\test-project\\test-project\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ethan\\workspace\\Lab_Repos\\branch-merge-sample-repo\\test-project\\test-project\\Program.cs",
               "RelativeDocumentMoniker": "test-project\\Program.cs",
-              "ToolTip": "C:\\Users\\frank\\workspace\\repos\\wip-frank\\Week-8-Git-In-A-Team\\branch-merge-sample-repo\\test-project\\test-project\\Program.cs",
+              "ToolTip": "C:\\Users\\Ethan\\workspace\\Lab_Repos\\branch-merge-sample-repo\\test-project\\test-project\\Program.cs",
               "RelativeToolTip": "test-project\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T16:07:19.293Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
