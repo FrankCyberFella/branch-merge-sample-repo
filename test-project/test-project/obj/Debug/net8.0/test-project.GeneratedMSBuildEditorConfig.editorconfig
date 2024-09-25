@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = test_project
-build_property.ProjectDir = C:\Users\frank\workspace\repos\wip-frank\Week-8-Git-In-A-Team\branch-merge-sample-repo\test-project\test-project\
+build_property.ProjectDir = C:\Users\Kendall\bootcamp_c_sharp\branch-merge-sample-repo\test-project\test-project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
