@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\frank\\.nuget\\packages\\": {},
+    "C:\\Users\\jddic\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frank\\workspace\\repos\\wip-frank\\Week-8-Git-In-A-Team\\branch-merge-sample-repo\\test-project\\test-project\\test-project.csproj",
+      "projectUniqueName": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\branch-merge-sample-repo\\test-project\\test-project\\test-project.csproj",
       "projectName": "test-project",
-      "projectPath": "C:\\Users\\frank\\workspace\\repos\\wip-frank\\Week-8-Git-In-A-Team\\branch-merge-sample-repo\\test-project\\test-project\\test-project.csproj",
-      "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frank\\workspace\\repos\\wip-frank\\Week-8-Git-In-A-Team\\branch-merge-sample-repo\\test-project\\test-project\\obj\\",
+      "projectPath": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\branch-merge-sample-repo\\test-project\\test-project\\test-project.csproj",
+      "packagesPath": "C:\\Users\\jddic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jddic\\OneDrive\\Desktop\\workspace\\branch-merge-sample-repo\\test-project\\test-project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jddic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
